@@ -1,0 +1,15 @@
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\bin\Debug\net6.0\Quiz.exe
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\bin\Debug\net6.0\Quiz.deps.json
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\bin\Debug\net6.0\Quiz.runtimeconfig.json
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\bin\Debug\net6.0\Quiz.dll
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\bin\Debug\net6.0\Quiz.pdb
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\obj\Debug\net6.0\Quiz.csproj.AssemblyReference.cache
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\obj\Debug\net6.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfo.cs
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\obj\Debug\net6.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\obj\Debug\net6.0\Quiz.dll
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\obj\Debug\net6.0\refint\Quiz.dll
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\obj\Debug\net6.0\Quiz.pdb
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\obj\Debug\net6.0\Quiz.genruntimeconfig.cache
+C:\Users\E5470\source\Batch#20\QuizCSharp\Quiz\obj\Debug\net6.0\ref\Quiz.dll
