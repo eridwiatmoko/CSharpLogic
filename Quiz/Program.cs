@@ -286,6 +286,25 @@ namespace Quiz // Note: actual namespace depends on the project name.
                         Console.WriteLine();
                     }
                 }
+
+                //4
+                Console.WriteLine("");
+                for (int i = 1; i <= row; i++)
+                {
+                    for (int j = 1; j <= row - i; j++)
+                    {
+                        Console.Write("  ");
+                    }
+                    for (int j = i; j < 2 * i; j++)
+                    {
+                        Console.Write($"{j} ");
+                    }
+                    for (int j = 2 * i - 2; j >= i; j--)
+                    {
+                        Console.Write($"{j} ");
+                    }
+                    Console.WriteLine();
+                }
             }
 
         }
